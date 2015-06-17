@@ -1,0 +1,33 @@
+{
+    "color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "save_on_focus_lost": true,
+    "theme": "Soda Light 3.sublime-theme",
+    "trim_trailing_white_space_on_save": true,
+    "word_wrap": "true",
+
+    // Cursor style - slightly wider than default
+    "wide_caret": true,
+
+    // Editor view look-and-feel
+    "draw_white_space": "all",
+    "fold_buttons": false,
+    "highlight_line": true,
+    "auto_complete": false,
+    "show_minimap": false,
+    "show_full_path": true,
+
+    // Word wrapping
+    "rulers": [ 112, 119 ],
+    "word_wrap": true,
+    "wrap_width": 120,
+
+    // Whitespace - no tabs, trimming, end files with \n
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "ensure_newline_at_eof_on_save": true,
+}
